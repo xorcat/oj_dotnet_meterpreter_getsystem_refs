@@ -8,3 +8,4 @@
 2019-04-25T2014             ins0lentfool| You should implement get system but it should actually GIVEsystem if someone uses it
 2019-04-25T2016                  xorcatv| lastlog says 8 getsystem jokes so far (tues & today)
 2019-04-25T2101  makegetsystemgreatagain| missed my follow :( rude
+2019-04-25T2142                  xorcatv| If you want to keep track of the getsystem counter: https://github.com/xorcat/oj_dotnet_meterpreter_getsystem_refs
