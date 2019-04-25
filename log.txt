@@ -1,9 +1,10 @@
-2019-04-23T2003       girn6| are we working on the getsystem exploit today? Kappa
-2019-04-23T2019  barneyofth| Is this to replace getsystem?
-2019-04-23T2038  barneyofth| Getsystem
-2019-04-23T2038       girn6| getsystem exploit
-2019-04-23T2135  multiplex3| getsystem
-2019-04-25T2013     peleusx| one of the key parts is getsystem which lets you exploit the system for the highest privilege level
-2019-04-25T2014     atwolf0| set fire to getsystem
-2019-04-25T2014  ins0lentfo| You should implement get system but it should actually GIVEsystem if someone uses it
-2019-04-25T2016     xorcatv| lastlog says 8 getsystem jokes so far (tues & today)
+2019-04-23T2003                    girn6| are we working on the getsystem exploit today? Kappa
+2019-04-23T2019       barneyoftherubbble| Is this to replace getsystem?
+2019-04-23T2038       barneyoftherubbble| Getsystem
+2019-04-23T2038                    girn6| getsystem exploit
+2019-04-23T2135              multiplex3r| getsystem
+2019-04-25T2013                  peleusx| one of the key parts is getsystem which lets you exploit the system for the highest privilege level
+2019-04-25T2014                  atwolf0| set fire to getsystem
+2019-04-25T2014             ins0lentfool| You should implement get system but it should actually GIVEsystem if someone uses it
+2019-04-25T2016                  xorcatv| lastlog says 8 getsystem jokes so far (tues & today)
+2019-04-25T2101  makegetsystemgreatagain| missed my follow :( rude
