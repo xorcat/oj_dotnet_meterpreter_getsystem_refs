@@ -9,3 +9,6 @@
 2019-04-25T2016                  xorcatv| lastlog says 8 getsystem jokes so far (tues & today)
 2019-04-25T2101  makegetsystemgreatagain| missed my follow :( rude
 2019-04-25T2142                  xorcatv| If you want to keep track of the getsystem counter: https://github.com/xorcat/oj_dotnet_meterpreter_getsystem_refs
+2019-04-27T2038        barneyoftherubble| And if you are, can you maybe fix the getsystem one?
+2019-04-27T2039        barneyoftherubble| We could do stream bingo and put "No mention of getsystem" as one
+2019-04-27T2040             firekingdome| lol, whatever will I do without getsystem now \s
