@@ -18,3 +18,4 @@
 2019-04-29T2054                  peleusx| GOT is finished, I'm here, is getsystem done yet?
 2019-05-01T2020               archb1sh0p| wait does it count if OJ mentions GS..?
 2019-05-01T2020                  peleusx| I tried with getsystem but I only ever get error messages since it's no longer functional after you fixed it
+2019-05-01T2151              multiplex3r| when do we start work on getsystem?
