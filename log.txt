@@ -21,3 +21,5 @@
 2019-05-01T2151              multiplex3r| when do we start work on getsystem?
 2019-05-03T2025                 gombos__| *something about getsystem*
 2019-05-03T2028                 slickis_| I don't understand why getsystem is a meme.. Is it just that it hasn't worked on recent Windows?
+2019-05-06T2154            jay_townsend1| @ojreeves you going to fix getsystem while doing this stuff as well ?
+2019-05-06T2155       barneyoftherubbble| Can we make a bot to ban getsystem?
