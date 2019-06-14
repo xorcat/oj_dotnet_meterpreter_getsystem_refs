@@ -47,3 +47,5 @@
 2019-05-23T2142       barneyoftherubbble| https://www.doesgetsystemgetsystemagainyet.com/
 2019-06-10T2017       barneyoftherubbble| imagine giving bits with a get system emote!
 2019-06-10T2143                 cmdctrll| Getsystem
+2019-06-13T2057                 mongobug| GetSystem!
+2019-06-13T2058                 gombos__| To complete the troll, implement a meterp getsystem command that returns the system version!
