@@ -51,3 +51,4 @@
 2019-06-13T2058                 gombos__| To complete the troll, implement a meterp getsystem command that returns the system version!
 2019-06-17T2138       barneyoftherubbble| I should have got a picture of the gun and put a get system tattoo on it
 2019-06-20T2219       barneyoftherubbble| Is you not being good the reason getsystem died?
+2019-06-24T2114       barneyoftherubbble| bannedit thats not true. He made a mistake and BAM! getsystem is gone!
