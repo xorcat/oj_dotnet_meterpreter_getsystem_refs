@@ -61,3 +61,5 @@
 2019-07-01T2141               archb1sh0p| change UserAgent to getsystem..?
 2019-07-08T2001                 gombos__| ojreevGetsystem
 2019-07-08T2014                 gombos__| ojreevGetsystem
+2019-07-08T2019               archb1sh0p| ojreevGetsystem
+2019-07-08T2020       barneyoftherubbble| What have me and ojreevGetsystem got in common? We don't work
