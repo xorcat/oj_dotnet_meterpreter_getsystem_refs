@@ -69,3 +69,5 @@
 2019-07-08T2203       barneyoftherubbble| https://doesgetsystemgetsystemagainyet.com
 2019-07-08T2203                 gombos__| Implement ojreevGetsystem for the cash!
 2019-07-08T2205                  atwolf0| is that get getsystem count @xorcatv
+2019-07-15T2003                  atwolf0| !getsystem
+2019-07-15T2004               archb1sh0p| barney totes won't abuse the getsystem one
