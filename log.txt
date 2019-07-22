@@ -71,3 +71,7 @@
 2019-07-08T2205                  atwolf0| is that get getsystem count @xorcatv
 2019-07-15T2003                  atwolf0| !getsystem
 2019-07-15T2004               archb1sh0p| barney totes won't abuse the getsystem one
+2019-07-22T2004                  atwolf0| @xorcatv do you just leave a bot conencted to this channel all the time for watch for getsystem?
+2019-07-22T2004                  xorcatv| I'm the gs bot :P
+2019-07-22T2007       barneyoftherubbble| austra2Roughnut ojreevGetsystem
+2019-07-22T2008                    mugu7| !getsystem
