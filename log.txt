@@ -77,3 +77,4 @@
 2019-07-22T2008                    mugu7| !getsystem
 2019-07-22T2115                 gombos__| Is he finally implementing ojreevGetsystem ??
 2019-07-22T2142       barneyoftherubbble| use ojreevGetsystem.
+2019-07-29T2200       barneyoftherubbble| hopefully you can bring ojreevGetsystem with you next stream
