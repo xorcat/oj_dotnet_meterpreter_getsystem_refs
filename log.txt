@@ -85,3 +85,4 @@
 2019-09-16T2026                 bannedit| did I miss the implementation of getsystem?
 2019-09-16T2027                 gombos__| ojreevGetsystem ojreevGetsystem ojreevGetsystem
 2019-09-16T2027       barneyoftherubbble| according to https://www.doesgetsystemgetsystemagainyet.com/ @bannedit you missed it by 2132 days
+2019-09-16T2145                    __sto| do getsystem
